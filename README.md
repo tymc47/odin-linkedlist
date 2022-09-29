@@ -2,7 +2,7 @@
 Making a `linkedList` class and a `node` class with JavaScript
 
 ### Methods in `linkedList` class
-- Tail
+- tail
 - head
 - append
 - prepend
